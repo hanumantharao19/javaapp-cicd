@@ -15,7 +15,7 @@
 	<description>Knote</description>
 		
 
-	<scm>
+    <scm>
 
     <url>https://github.com/hanumantharao19/javaapp-cicd.git</url>
     <connection>scm:git:https://github.com/hanumantharao19/javaapp-cicd.git</connection>
