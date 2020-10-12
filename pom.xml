@@ -31,7 +31,7 @@
 		<java.version>8</java.version>
 	</properties>
 	
-<!-- <plugin>
+ <plugin>
    <artifactId>maven-release-plugin</artifactId>
    <version>2.5.1</version>
    <dependencies>
@@ -41,7 +41,7 @@
          <version>1.9.5</version>
       </dependency>
    </dependencies>
-</plugin> -->
+</plugin> 
 
 	<!-- <plugin>
 				<groupId>org.apache.maven.plugins</groupId>
