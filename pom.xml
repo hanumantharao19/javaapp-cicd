@@ -18,8 +18,8 @@
 	<scm>
 
     <url>https://github.com/hanumantharao19/javaapp-cicd.git</url>
-    <connection>scm:git:https://hanumantharao19:haswitha@1986@github.com/hanumantharao19/javaapp-cicd.git</connection>
-    <developerConnection>scm:git:https://hanumanthrao19:haswitha@1986:@github.com:hanumantharao19/javaapp-cicd.git</developerConnection>
+    <connection>scm:git:https://hanumantharao19:b11beb6e4892a44f8cd6b7f7bdf94a9d3aed0908@github.com/hanumantharao19/javaapp-cicd.git</connection>
+    <developerConnection>scm:git:https://hanumanthrao19:b11beb6e4892a44f8cd6b7f7bdf94a9d3aed0908@github.com/hanumantharao19/javaapp-cicd.git</developerConnection>
     <tag>HEAD</tag>
    </scm>
 
