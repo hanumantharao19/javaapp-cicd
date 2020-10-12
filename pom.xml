@@ -17,7 +17,7 @@
 	<scm>
 		<connection>scm:git:https://github.com/hanumantharao19/javaapp-cicd.git</connection>
 		<developerConnection>scm:git:ssh://git@github.com/hanumantharao19/javaapp-cicd.git</developerConnection>
-		<url>https://github.com/hanumantharao19/javaapp-cicd.git</url>
+		<url>https://github.com/hanumantharao19/javaapp-cicd</url>
 		<tag>HEAD</tag>
   	</scm>
 
